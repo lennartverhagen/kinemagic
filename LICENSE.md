@@ -4,7 +4,7 @@
 
 [kinemagic - motion analysis toolbox][product] = THIS SOFTWARE
 
-Copyright (c) 2010-2016 [Lennart Verahgen][author]
+Copyright (c) 2010-2016 [Lennart Verhagen][author]
 
 Redistribution and use in source and binary forms, with or without modification,
 is permitted provided that the following conditions are met:
@@ -16,9 +16,10 @@ is permitted provided that the following conditions are met:
   this list of conditions, and the following disclaimer in the documentation
   and/or other materials provided with the distribution.
 
-* The names of University of Oxford, Lennart Verhagen, or any contributors
-  to this software may *not* be used to endorse or promote products derived
-  from this software without specific prior written permission.
+* The name of this project and the names of University of Oxford, Lennart
+  Verhagen, or any contributors to this software may *not* be used to endorse or
+  promote products derived from this software without specific prior written
+  permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
